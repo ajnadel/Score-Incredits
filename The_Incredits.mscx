@@ -114,6 +114,14 @@
         <System>
           </System>
         </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
       </PageList>
     <Part>
       <Staff id="1">
@@ -1916,6 +1924,69 @@
           <durationType>measure</durationType>
           <duration z="10" n="8"/>
           </Rest>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="2"/>
+          </Rest>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="70">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="71">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -2706,6 +2777,69 @@
           </Rest>
         </Measure>
       <Measure number="67">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="2"/>
+          </Rest>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="70">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="71">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
         <Rest>
           <durationType>measure</durationType>
           <duration z="10" n="8"/>
@@ -4141,6 +4275,69 @@
           </Rest>
         </Measure>
       <Measure number="67">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="2"/>
+          </Rest>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="70">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="71">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
         <Rest>
           <durationType>measure</durationType>
           <duration z="10" n="8"/>
@@ -5720,6 +5917,69 @@
           </Rest>
         </Measure>
       <Measure number="67">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="2"/>
+          </Rest>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="70">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="71">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
         <Rest>
           <durationType>measure</durationType>
           <duration z="10" n="8"/>
@@ -7388,17 +7648,20 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <tpc2>20</tpc2>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <tpc2>17</tpc2>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7488,6 +7751,282 @@
             <tpc2>20</tpc2>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>17</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
+            <tpc2>15</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <tpc2>20</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <tpc2>18</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>17</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <tpc2>20</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
+            <tpc2>15</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>17</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>73</pitch>
+            <tpc>9</tpc>
+            <tpc2>12</tpc2>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            <tpc2>19</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
+            <tpc2>15</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <tpc2>20</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>17</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
+            <tpc2>15</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <tpc2>18</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>66</pitch>
+            <tpc>8</tpc>
+            <tpc2>11</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <tpc2>20</tpc2>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="70">
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <tpc2>18</tpc2>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            <tpc2>23</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <tpc2>18</tpc2>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="71">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <tpc2>20</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
+            <tpc2>15</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>17</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>77</pitch>
+            <tpc>13</tpc>
+            <tpc2>16</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>79</pitch>
+            <tpc>15</tpc>
+            <tpc2>18</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>81</pitch>
+            <tpc>17</tpc>
+            <tpc2>20</tpc2>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -8720,6 +9259,69 @@
           <durationType>measure</durationType>
           <duration z="10" n="8"/>
           </Rest>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="2"/>
+          </Rest>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="70">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="71">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -9385,6 +9987,38 @@
           </TimeSig>
         <Chord>
           <durationType>eighth</durationType>
+          <acciaccatura/>
+          <Note>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <acciaccatura/>
+          <Note>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <acciaccatura/>
+          <Note>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <acciaccatura/>
+          <Note>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
           <Note>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -9549,6 +10183,69 @@
           </Rest>
         </Measure>
       <Measure number="67">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="2"/>
+          </Rest>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="70">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="71">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
         <Rest>
           <durationType>measure</durationType>
           <duration z="10" n="8"/>
@@ -10449,6 +11146,69 @@
           <durationType>measure</durationType>
           <duration z="10" n="8"/>
           </Rest>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="2"/>
+          </Rest>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="70">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="71">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -11311,6 +12071,69 @@
           </Rest>
         </Measure>
       <Measure number="67">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="2"/>
+          </Rest>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="70">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="71">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
         <Rest>
           <durationType>measure</durationType>
           <duration z="10" n="8"/>
@@ -12562,6 +13385,69 @@
           <durationType>measure</durationType>
           <duration z="10" n="8"/>
           </Rest>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="2"/>
+          </Rest>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>2</span>
+          </BarLine>
+        </Measure>
+      <Measure number="70">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="71">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>2</span>
@@ -13094,6 +13980,65 @@
           </Rest>
         </Measure>
       <Measure number="67">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="2"/>
+          </Rest>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="70">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="71">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
         <Rest>
           <durationType>measure</durationType>
           <duration z="10" n="8"/>
@@ -14006,6 +14951,69 @@
           </Rest>
         </Measure>
       <Measure number="67">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="2"/>
+          </Rest>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="70">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="71">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
         <Rest>
           <durationType>measure</durationType>
           <duration z="10" n="8"/>
@@ -15085,6 +16093,69 @@
           <durationType>measure</durationType>
           <duration z="10" n="8"/>
           </Rest>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="2"/>
+          </Rest>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="70">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="71">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -15878,6 +16949,69 @@
           </Rest>
         </Measure>
       <Measure number="67">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="2"/>
+          </Rest>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="70">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="71">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
         <Rest>
           <durationType>measure</durationType>
           <duration z="10" n="8"/>
@@ -17589,6 +18723,69 @@
           </Rest>
         </Measure>
       <Measure number="67">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="68">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="272"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="272"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="272"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="3" n="2"/>
+          </Rest>
+        </Measure>
+      <Measure number="69">
+        <TimeSig>
+          <sigN>10</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      <Measure number="70">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="71">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="72">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="10" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="73">
         <Rest>
           <durationType>measure</durationType>
           <duration z="10" n="8"/>
